@@ -8,9 +8,6 @@
 <a href="mailto:<karol.fradique@gmail.com>" alt="gmail" target="_blank">
 <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:<karol.fradique@gmail.com>" />
 </a>
-
-:page_with_curl: curriculum -->https://docs.google.com/document/d/e/2PACX-1vQFyF2aAQaupmmQQHuxxCiNprkqMKg-AtBw65YlQdRqSZt3M-68siPnctF6aS0Qxw/pub
-
 <div>
  <img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=KarolFradique&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height = "130em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KarolFradique&layout=compact&langs_count=16&theme=dracula" />
