@@ -1,5 +1,5 @@
 ## Hi guys :smile: 
-### My name is karol, I'm Brazilian, I'm graduated in System Analysis and Development. But I'm improving my knowledge in programming
+### My name is Karol, I'm Brazilian, I'm graduated in System Analysis and Development. But I'm improving my knowledge in programming
 ### Welcome to my page
 
 ## About me :hugs:
@@ -8,6 +8,7 @@
 <a href="mailto:<karol.fradique@gmail.com>" alt="gmail" target="_blank">
 <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:<karol.fradique@gmail.com>" />
 </a>
+
 <div>
  <img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=KarolFradique&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height = "130em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KarolFradique&layout=compact&langs_count=16&theme=dracula" />
