@@ -1,5 +1,5 @@
 ## Hi guys :smile: 
-### My name is Karol, I'm Brazilian, I'm graduated in System Analysis and Development. But I'm improving my knowledge in programming .I am currently working at the Metha System
+### My name is Karol, I'm Brazilian, I'm graduated in System Analysis and Development. But I'm improving my knowledge in programming .I am currently working at the LCS-I System as a technical support analyst
 ### Welcome to my page
 
 ## About me :hugs:
@@ -22,11 +22,6 @@
 ![Postman Bedge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Bedge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Bedge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Bedge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Wordpress Bedge](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Bedge](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
-![Adobe Photoshop Bedge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Gimp Bedge](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
 
 ## :zap: GitHub Stats
