@@ -1,5 +1,5 @@
 ## Hi guys :smile: 
-### My name is Karol, I'm Brazilian, I'm graduated in System Analysis and Development. But I'm improving my knowledge in programming .I am currently working at the LCS-I System as a technical support analyst
+### My name is Karol, I'm Brazilian, I'm graduated in System Analysis and Development. But I'm improving my knowledge in programming.
 ### Welcome to my page
 
 ## About me :hugs:
